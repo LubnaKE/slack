@@ -1,8 +1,8 @@
 package day_1;
 
-public class CallLog {
+public class Call2 {
     public static void main(String[] args) {
 
-        //users are able to call
+        //users can make call
     }
 }
